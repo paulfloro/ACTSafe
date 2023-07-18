@@ -1,14 +1,9 @@
-# ACTSafe
-
 
 # ACTSafe  
-
-A brief description of your project.
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
@@ -44,13 +39,6 @@ $ cd yourproject
 $ npm install
 ```
 
-## Usage
-
-Explain how to use your project. Provide examples or code snippets if necessary. You can also include screenshots or GIFs to demonstrate the functionality.
-
-```
-
-```
 
 ## Features
 
@@ -77,10 +65,8 @@ Be sure to follow the project's code style and guidelines.
 
 ## License
 
-Specify the license under which your project is distributed. For example:
-
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize and expand this template according to your project's specific needs. Remember to include relevant information that helps others understand and contribute to your project effectively.
+
