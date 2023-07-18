@@ -31,12 +31,21 @@ There are three Processes in this application; Admin, Gate and Student.
 
 ## Installation
 
-Provide instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
-
 ```
 $ git clone https://github.com/yourusername/yourproject.git
 $ cd yourproject
 $ npm install
+
+**How to Run Web App**
+Install XAMPP 
+Place webfiles into XAMPP > htdocs folder
+Open XAMP and place "ipaddress/folder/Index.php" in browser
+
+**How to Run Flutter App**
+Install Xcode
+Run this on Xcode: Runner.xcworkspace
+Actsafe > IOS > Runner.xcworkspace > Run 
+
 ```
 
 
