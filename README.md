@@ -26,11 +26,11 @@ suited for a school environment for face-to-face classes.
 
 There are three Processes in this application; Admin, Gate and Student.
 
-		ADMIN		|		GATE		|		STUDENT
-------------------------------------------------------------------------------------------------
-Language:	HTML,PHP	|	HTML,PHP		|		FLUTTER,DART
-Database:	MySQL		|	MySQL			|		MySQL
-Hardware:	Computer/Laptop |Computer,Laptop,QR&ThermalScan.|		Mobile Device
+|		ADMIN		|		GATE		|		STUDENT			|
+|-------------------------------|------------------------------:|-------------------------------------:	|
+|Language:	HTML,PHP	|	HTML,PHP		|		FLUTTER,DART		|
+|Database:	MySQL		|	MySQL			|		MySQL			|
+|Hardware:	Computer/Laptop |Computer,Laptop,QR&ThermalScan.|		Mobile Device		|
 
 
 
