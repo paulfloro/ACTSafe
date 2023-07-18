@@ -23,9 +23,9 @@ There are three Processes in this application; Admin, Gate and Student.
 
 |		ADMIN		|		GATE		|		STUDENT			|
 |-------------------------------|------------------------------:|-------------------------------------:	|
-|Language:	HTML,PHP	|	HTML,PHP		|		FLUTTER,DART		|
-|Database:	MySQL		|	MySQL			|		MySQL			|
-|Hardware:	Computer/Laptop |Computer,Laptop,QR&ThermalScan.|		Mobile Device		|
+|**Language**:	HTML,PHP	|	HTML,PHP		|		FLUTTER,DART		|
+|**Database**:	MySQL		|	MySQL			|		MySQL			|
+|**Hardware**:	Computer/Laptop |Computer,Laptop,QR & Thermal Scanner|		Mobile Device		|
 
 
 
@@ -42,14 +42,14 @@ $ npm install
 
 ## Features
 
-- QR Code tap | Entry/Exit Log
-- Automatic Temperature Check
-- Pre-Entry Health Declaration Form
-- High Temperature Alarm
-- Student Infection Status Update Confirmation
-- Exposure Notification using Bluetooth Low Energy
-- User Data Management
-- Automatic Disposal of Unnecessary Student Data
+- **QR Code tap | Entry/Exit Log**
+- **Automatic Temperature Check**
+- **Pre-Entry Health Declaration Form**
+- **High Temperature Alarm**
+- **Student Infection Status Update Confirmation**
+- **Exposure Notification using Bluetooth Low Energy**
+- **User Data Management**
+- **Automatic Disposal of Unnecessary Student Data**
 
 ## Contributing
 
